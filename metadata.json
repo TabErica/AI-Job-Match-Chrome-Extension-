@@ -1,0 +1,5 @@
+{
+  "name": "Job Matcher AI",
+  "description": "Chrome Extension to compare your resume with job descriptions using Gemini API.",
+  "requestFramePermissions": []
+}
